@@ -1,1 +1,1 @@
-# Atividades realizadas para Universidade PUC-PR
+Written by prolog
